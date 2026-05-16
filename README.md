@@ -4,9 +4,9 @@
 
 
 # C Programming Activity
-Name: YOUR NAME
-USN: YOUR USN
-Semester/Section: ________
+Name: Usha SR
+USN: 1JS25CI095
+Semester/Section: ____2NDSEM/C2____
 Program Title: Simple Addition of Two Numbers
 ## Aim
 To write and execute a simple C program and upload it to GitHub.
